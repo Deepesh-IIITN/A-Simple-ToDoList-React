@@ -1,0 +1,30 @@
+body {
+  background: #1abc9c;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  font-weight: 800;
+  color: white;
+  text-align: center;
+}
+
+h5 {
+  font-weight: 700;
+}
+.card {
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+.card .card-title {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+  color: coral;
+}
+.card form .form-group {
+  margin-right: 1rem;
+}
